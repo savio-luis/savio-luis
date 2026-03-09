@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://media.tenor.com/GF3sGk5sE4UAAAAC/light-yagami-death-note.gif"/>
+<img width="100%" src="tenor.gif"/>
 
 <h1>👨‍💻 Sávio Luís</h1>
 
