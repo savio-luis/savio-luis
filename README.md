@@ -1,5 +1,5 @@
 <div align="center">
-<img width="450px" src="tenor.gif">
+<img width="800px" src="tenor.gif">
 </div>
 
 <h1>👨‍💻 Sávio Luís</h1>
