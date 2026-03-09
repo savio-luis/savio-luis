@@ -1,5 +1,14 @@
 <div align="center">
-<img width="650px" src="code.gif">
+
+<img width="600px" src="coding.gif">
+
+<h1>👨‍💻 Sávio Luís</h1>
+
+<p>
+Estudante de Análise e Desenvolvimento de Sistemas<br>
+Futuro Desenvolvedor Full Stack
+</p>
+
 </div>
 
 <h1>👨‍💻 Sávio Luís</h1>
