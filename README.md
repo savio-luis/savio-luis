@@ -9,6 +9,7 @@
 <img width="450px" src="tenor.gif">
 </div>
 
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub;Estudante+de+ADS;Futuro+Desenvolvedor+Full+Stack;HTML+CSS+JavaScript"/>
 
 </div>
