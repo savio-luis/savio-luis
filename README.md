@@ -63,7 +63,7 @@
 
 ---
 
-# 🐍 Snake (cobra dos commits)
+
 
 <div align="center">
 
