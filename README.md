@@ -1,17 +1,15 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header"/>
+<div align="center">
 
-<h1 align="center">👨‍💻 Sávio Luís</h1>
+<img width="100%" src="https://media.tenor.com/8h3R1qXq2u8AAAAC/light-yagami-death-note.gif">
 
-<p align="center">
+<h1>👨‍💻 Sávio Luís</h1>
+
+<p>
 🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
 💻 Futuro Desenvolvedor Full Stack
 </p>
 
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Estudante+de+ADS;Aprendendo+Full+Stack;HTML+CSS+JavaScript"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub;Estudante+de+ADS;Futuro+Desenvolvedor+Full+Stack;HTML+CSS+JavaScript"/>
 
 </div>
 
@@ -19,10 +17,10 @@
 
 # 🚀 Sobre mim
 
-- 🎓 Estudante de **ADS**
-- 💻 Aprendendo **Desenvolvimento Full Stack**
-- 📚 Estudando **HTML, CSS, JavaScript**
-- 🎯 Objetivo: me tornar **Desenvolvedor Full Stack**
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+- 💻 Estudando **Desenvolvimento Full Stack**
+- 📚 Atualmente aprendendo **HTML, CSS e JavaScript**
+- 🎯 Objetivo: trabalhar como **Desenvolvedor Full Stack**
 
 ---
 
@@ -73,7 +71,11 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sávio-barros-9180b9328/" target="_blank">
+<a href="https://wa.me/81986227833">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/sávio-barros-9180b9328/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
@@ -86,5 +88,3 @@
 💻 *"Todo especialista já foi um iniciante."*
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
