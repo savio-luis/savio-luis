@@ -1,14 +1,5 @@
 <div align="center">
-
-<img width="600px" src="coding.gif">
-
-<h1>👨‍💻 Sávio Luís</h1>
-
-<p>
-Estudante de Análise e Desenvolvimento de Sistemas<br>
-Futuro Desenvolvedor Full Stack
-</p>
-
+<img width="450px" src="tenor.gif">
 </div>
 
 <h1>👨‍💻 Sávio Luís</h1>
