@@ -1,18 +1,22 @@
+<h1 align="center">👨‍💻 Sávio Luís</h1>
 
-<h1>👨‍💻 Sávio Luís</h1>
-<p>
+<p align="center">
 🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
 💻 Futuro Desenvolvedor Full Stack
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=savio-luis&color=blue">
 </p>
 
 <div align="center">
 <img width="450px" src="tenor.gif">
 </div>
 
-
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub;Estudante+de+ADS;Futuro+Desenvolvedor+Full+Stack;HTML+CSS+JavaScript"/>
+</p>
 
-</div>
 ---
 
 # 🚀 Sobre mim
@@ -32,7 +36,7 @@
 <img width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
 <img width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
 <img width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
-<img width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg">
+<img width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GitHub-Dark.svg">
 <img width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vscode-Dark.svg">
 
 </div>
@@ -59,6 +63,8 @@
 
 ---
 
+# 🐍 Contribuições
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
@@ -71,7 +77,7 @@
 
 <div align="center">
 
-<a href="https://wa.me/86227833">
+<a href="https://wa.me/558186227833">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
