@@ -4,14 +4,14 @@
 
 <p align="center">
 🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
-💻 Futuro Desenvolvedor Front-End
+💻 Futuro Desenvolvedor Full Stack
 </p>
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Estudante+de+ADS;Aprendendo+Front-End;HTML+CSS+JavaScript"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Estudante+de+ADS;Aprendendo+Full+Stack;HTML+CSS+JavaScript"/>
 
 </div>
 
@@ -20,9 +20,9 @@
 # 🚀 Sobre mim
 
 - 🎓 Estudante de **ADS**
-- 💻 Aprendendo **Front-End**
-- 📚 Estudando **HTML, CSS e JavaScript**
-- 🎯 Objetivo: trabalhar como **Desenvolvedor**
+- 💻 Aprendendo **Desenvolvimento Full Stack**
+- 📚 Estudando **HTML, CSS, JavaScript**
+- 🎯 Objetivo: me tornar **Desenvolvedor Full Stack**
 
 ---
 
@@ -51,9 +51,7 @@
 
 </div>
 
----
-
-# 🔥 Sequência de commits
+<br>
 
 <div align="center">
 
@@ -62,8 +60,6 @@
 </div>
 
 ---
-
-
 
 <div align="center">
 
@@ -77,9 +73,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](SEU_LINK)
+<a href="https://www.linkedin.com/in/sávio-barros-9180b9328/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 </div>
 
