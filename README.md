@@ -6,15 +6,15 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=savio-luis&color=8A2BE2&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=savio-luis&color=blue">
 </p>
 
 <div align="center">
-<img width="450px" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img width="450px" src="tenor.gif">
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub;Estudante+de+ADS;Futuro+Desenvolvedor+Full+Stack;HTML+CSS+JavaScript"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub;Estudante+de+ADS;Futuro+Desenvolvedor+Full+Stack;HTML+CSS+JavaScript"/>
 </p>
 
 ---
@@ -91,6 +91,6 @@
 
 <div align="center">
 
-💜 *"Todo especialista já foi um iniciante."*
+💻 *"Todo especialista já foi um iniciante."*
 
 </div>
