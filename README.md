@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://media.tenor.com/8h3R1qXq2u8AAAAC/light-yagami-death-note.gif">
+<img width="100%" src="https://media.tenor.com/GF3sGk5sE4UAAAAC/light-yagami-death-note.gif"/>
 
 <h1>👨‍💻 Sávio Luís</h1>
 
@@ -12,7 +12,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub;Estudante+de+ADS;Futuro+Desenvolvedor+Full+Stack;HTML+CSS+JavaScript"/>
 
 </div>
-
 ---
 
 # 🚀 Sobre mim
