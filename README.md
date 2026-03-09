@@ -32,12 +32,12 @@
 
 <div align="center">
 
-<img width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
-<img width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-<img width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
-<img width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
-<img width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GitHub-Dark.svg">
-<img width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vscode-Dark.svg">
+<img width="60" src="https://skillicons.dev/icons?i=html">
+<img width="60" src="https://skillicons.dev/icons?i=css">
+<img width="60" src="https://skillicons.dev/icons?i=js">
+<img width="60" src="https://skillicons.dev/icons?i=git">
+<img width="60" src="https://skillicons.dev/icons?i=github">
+<img width="60" src="https://skillicons.dev/icons?i=vscode">
 
 </div>
 
