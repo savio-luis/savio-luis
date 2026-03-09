@@ -1,6 +1,6 @@
 <div align="center">
-
-<img width="100%" src="tenor.gif"/>
+<img width="450px" src="tenor.gif">
+</div>
 
 <h1>👨‍💻 Sávio Luís</h1>
 
