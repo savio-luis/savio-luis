@@ -43,24 +43,9 @@
 
 ---
 
-# 📊 Estatísticas
+# 📊 Atividade no GitHub
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=savio-luis&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savio-luis&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=savio-luis&theme=tokyonight&hide_border=true"/>
-
-</div>
-
+[![Sávio's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=savio-luis&theme=tokyo-night)](https://github.com/savio-luis)
 ---
 
 # 🐍 Contribuições
