@@ -43,10 +43,15 @@
 
 ---
 
-# 📊 Atividade no GitHub
+# 📊 Estatísticas
 
-[![Sávio's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=savio-luis&theme=tokyo-night)](https://github.com/savio-luis)
----
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=savio-luis&theme=tokyo-night"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=savio-luis&theme=tokyonight"/>
+</p>
 
 # 🐍 Contribuições
 
